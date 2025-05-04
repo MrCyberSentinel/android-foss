@@ -710,13 +710,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Box, Box!**](https://github.com/BrightDV/BoxBox) <sup>**[[F-Droid](https://f-droid.org/app/org.brightdv.boxbox)]**</sup>
 * [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/app/com.enjoyingfoss.feeel)]**</sup>
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.fitness)]**</sup>
+* [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/app/com.presley.flexify)]**</sup>
 * [**HeartBeat**](https://github.com/berdosi/HeartBeat) <sup>**[[F-Droid](https://f-droid.org/app/eu.berdosi.app.heartbeat)]**</sup>
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audiometry)]**</sup>
 * [**LibreHealth**](https://gitlab.com/librehealth)
     * [**CCF**](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.toolkit.cost_of_care)]**</sup>
     * [**ECEB**](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.mhbs.essential_care_for_every_baby)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/app/com.futsch1.medtimer)]**</sup>
-* [**Monochromatic**](https://github.com/RichyHBM/Monochromatic) <sup>**[[F-Droid](https://f-droid.org/app/uk.co.richyhbm.monochromatic)]**</sup>
 * [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/app/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/app/com.jmstudios.redmoon)]**</sup>
